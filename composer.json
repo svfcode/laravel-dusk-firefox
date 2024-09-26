@@ -1,5 +1,5 @@
 {
-    "name": "derekmd/laravel-dusk-firefox",
+    "name": "svfcode/laravel-dusk-firefox",
     "description": "Run Laravel Dusk tests in a Firefox browser",
     "keywords": [
         "dusk",
@@ -20,9 +20,9 @@
         }
     ],
     "require": {
-        "php": "^7.2|^8.0",
-        "guzzlehttp/guzzle": "^6.0|^7.0",
-        "laravel/dusk": "^6.0|^7.0",
+        "php": "^7.2|^8.0|^8.1|^8.2|^8.3",
+        "guzzlehttp/guzzle": "^6.0|^7.0|^8.0|^9.0",
+        "laravel/dusk": "^6.0|^7.0|^8.0",
         "php-webdriver/webdriver": "^1.11.0"
     },
     "require-dev": {
